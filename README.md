@@ -1,19 +1,18 @@
 # EVENFLO-Project
 
+![image]()
+________________________________________________________________________________________________________________________________________________________________
 
-"The objective of the project is to help the Kimberly Clark company with an analysis of the Baby Food industry, which is a large category with several subsegments where the most important products are:
+#Topic
 
--Baby bottles
--Glasses
--Nipples
--Bibs
+EVENFLO Maternity Products
+________________________________________________________________________________________________________________________________________________________________
 
-We have been hired to work on the EVENFLO brand, a leading brand in the infant feeding market, it is mainly aimed at women who are new mothers or have children from 0 to 3 years of age.
+#Objective of the project
 
-Among the activities to be carried out is the sales and results report, so considering BASE 1, you are requested to provide the following data:
+Analyze the distribution channels, through the sales channels provided by the Kimberly Clark company. The main objective is to carry out an analysis of how to introduce the main products or star products (feeding bottles, training cups, nipples and bibs) through E-Commerce, since most of the products are distributed through self-service or specialized services. The goal is to ensure that the target, in this case, new mothers or those who have babies between 1 and 3 years old, can easily acquire our products.
+________________________________________________________________________________________________________________________________________________________________
 
-Analyze the database and give it an order, eliminating repeated data.
+#Data source
 
-Take the total of the number of real products
-
-Description of the total elements described in the database.
+The data was generated in a fictitious way, the information was investigated and organized, so that we could offer information on the true products offered by the brand, but emphasizing that the figures are totally invented by the work team.
