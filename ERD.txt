@@ -1,0 +1,20 @@
+PRODUCTO
+-
+SUB_CATEGORIA varchar
+SKU varchar pk
+CODIGO_DE_BARRAS varchar
+PRODUCTO varchar
+
+
+CANALES
+-
+CANAL varchar pk
+SUB_CATEGORIA varchar
+SKU varchar fk >- PRODUCTO.SKU
+
+VENTAS_MES
+-
+SKU varchar fk >- PRODUCTO.SKU
+MES date pk
+YEAR date
+CANAL varchar fk >- CANALES.CANAL
