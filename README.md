@@ -6,6 +6,7 @@ ________________________________________________________________________________
 # Topic
 
 EVENFLO Maternity Products
+
 We selected this topic because the database helps us to focus our analysis on an e-commerce launch plan
 ________________________________________________________________________________________________________________________________________________________________
 
