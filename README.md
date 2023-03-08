@@ -29,6 +29,6 @@ The data was generated in a fictitious way, the information was investigated and
 
 _____________________________________________________________________________________________________________________________________________________________
 
-![gif](https://github.com/RodrigoCR25/EVENFLO-project/blob/main/gif_evenflo.mp4)
+
 
 
