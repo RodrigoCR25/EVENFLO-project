@@ -140,7 +140,7 @@ function buildCharts(sample) {
     // Deliverable 2: 2. Create the layout for the bubble chart.
 
     var bubbleDataLayout = {
-      title: 'Bacteria Cultures per Sample',
+      title: 'Evenflo per products',
       xaxis: { title: "OTU ID" },
       margin: { t: 50 },
     };
@@ -155,7 +155,7 @@ function buildCharts(sample) {
       type: "indicator",
       mode: "gauge+number",
       value: washFrequency,
-      title: { text: "<b>Bellybutton Washing Frequency</b> <br>Scrubs per Week", font: { size: 24 } },
+      title: { text: "<b>Evenflo Washing Frequency</b> <br>Scrubs per Week", font: { size: 24 } },
       gauge: {
         axis: { range: [null, 10], tickcolor: "darkblue" },
         bar: { color: "black" },
