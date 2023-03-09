@@ -37,16 +37,7 @@ This in order to be able to validate the channels mostly used for the commercial
 
 https://public.tableau.com/app/profile/rodrigo8277/viz/EVENFLO_products/EVENFLO?publish=yes
 
-
 Rodrigo
-
-
-
-
-
-
-
-
 _____________________________________________________________________________________________________________________________________________________________
 
 
