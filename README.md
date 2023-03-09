@@ -27,6 +27,12 @@ The data was generated in a fictitious way, the information was investigated and
 
 ° Can we identify any trend that should be reflected on the sales plan for the first semester of 2023?
 
+
+
+
+
+https://public.tableau.com/app/profile/rodrigo8277/viz/EVENFLO_products/EVENFLO?publish=yes
+
 _____________________________________________________________________________________________________________________________________________________________
 
 
