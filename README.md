@@ -27,11 +27,25 @@ The data was generated in a fictitious way, the information was investigated and
 
 ° Can we identify any trend that should be reflected on the sales plan for the first semester of 2023?
 
+_____________________________________________________________________________________________________________________________________________________________
 
+# Analysis of the 4 sub-segments of EVENFLO
 
+An analysis was carried out to know the behavior of the products during the first semesters of 2021 and 2022. Within this analysis, an attempt was also made to highlight the main cities in Mexico such as CDMX, Monterry and Guadalajara.
 
+This in order to be able to validate the channels mostly used for the commercialization of the main 4 products.
 
 https://public.tableau.com/app/profile/rodrigo8277/viz/EVENFLO_products/EVENFLO?publish=yes
+
+
+Rodrigo
+
+
+
+
+
+
+
 
 _____________________________________________________________________________________________________________________________________________________________
 
