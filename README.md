@@ -31,6 +31,8 @@ ________________________________________________________________________________
 
 # Analysis of the 4 sub-segments of EVENFLO
 
+Tableau was used as an option since it is a tool in business development. The app makes it easy to explore and manage data. It also enables faster discovery and sharing of information to drive big business change.
+
 An analysis was carried out to know the behavior of the products during the first semesters of 2021 and 2022. Within this analysis, an attempt was also made to highlight the main cities in Mexico such as CDMX, Monterry and Guadalajara.
 
 This in order to be able to validate the channels mostly used for the commercialization of the main 4 products.
