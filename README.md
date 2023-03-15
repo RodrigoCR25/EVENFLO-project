@@ -38,6 +38,15 @@ An analysis was carried out to know the behavior of the products during the firs
 This in order to be able to validate the channels mostly used for the commercialization of the main 4 products.
 
 https://public.tableau.com/app/profile/rodrigo8277/viz/EVENFLO_products_finalproject/EVENFLO?publish=yes
+
+Rodrigo
+
+
+
+
+
+
+
 _____________________________________________________________________________________________________________________________________________________________
 
 
