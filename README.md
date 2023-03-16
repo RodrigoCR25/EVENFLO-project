@@ -18,6 +18,7 @@ ________________________________________________________________________________
 # Data source
 
 The data was generated in a fictitious way, the information was investigated and organized, so that we could offer information on the true products offered by the brand, but emphasizing that the figures are totally invented by the work team.
+We decided to use data to pitch data analysis for product marketing focused analysis.
 
 # Question to answer
 
