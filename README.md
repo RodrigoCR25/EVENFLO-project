@@ -24,6 +24,8 @@ We decided to use data to pitch data analysis for product marketing focused anal
 
 ° Based on a portfolio analysis for each channel, which is the ideal portfolio for launching Maternity Products on e-commerce?
 
+The criteria used to select products to be sold in e-commerce was to consider all the products that make 80/20 for each channel (Autoservice or Specialized)
+
 ° Is it possible to develop a promotion plan for tops sellers across channels?
 
 Since Machine Learning has linear regression analysis we decided to answer this question with a linear regression model to predict sales based on marketing budget for a product category on "Autoservicios" sales channel.
