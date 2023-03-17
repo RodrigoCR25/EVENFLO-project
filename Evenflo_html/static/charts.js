@@ -134,14 +134,15 @@ function buildCharts(sample) {
         color: otu_ids,
         size: sample_values,
         colorscale: "Pink"
-      }
-     };
+      },
+
+      };
 
     // Deliverable 2: 2. Create the layout for the bubble chart.
 
     var bubbleDataLayout = {
       title: 'Evenflo per products',
-      xaxis: { title: "OTU ID" },
+      xaxis: { title: "SKU's" },
       margin: { t: 50 },
     };
 
@@ -157,18 +158,18 @@ function buildCharts(sample) {
       value: washFrequency,
       title: { text: "<b>Evenflo Washing Frequency</b> <br>Scrubs per Week", font: { size: 24 } },
       gauge: {
-        axis: { range: [null, 10], tickcolor: "darkblue" },
-        bar: { color: "black" },
+        axis: { range: [null, 10], tickcolor: "blue" },
+        bar: { color: "blue" },
         bgcolor: "white",
         borderwidth: 2,
 
         bordercolor: "gray",
         steps: [
           { range: [0, 2], color: "#ff001c" },
-          { range: [2, 4], color: "#ffbf00" },
-          { range: [4, 6], color: "#ffff00"},
-          { range: [6, 8], color: "#b4ef59" },
-          { range: [8, 10], color: "#1c542d" }
+          { range: [2, 4], color: "#ff001c" },
+          { range: [4, 6], color: "#ffa600"},
+          { range: [6, 8], color: "#a2ff00" },
+          { range: [8, 10], color: "#a600ff" }
         ],
       }
     }
