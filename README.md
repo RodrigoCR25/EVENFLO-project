@@ -33,6 +33,13 @@ Since Machine Learning has linear regression analysis we decided to answer this 
 
 ° Can we identify any trend that should be reflected on the sales plan for the first semester of 2023?
 
+![image](https://user-images.githubusercontent.com/114257085/225782736-9874bc08-8ab2-478c-b3e7-8ef11c8ab619.png)
+
+
+![image](https://user-images.githubusercontent.com/114257085/225782770-5eb425e0-b78d-4dda-9bec-cb3143adb932.png)
+
+
+
 _____________________________________________________________________________________________________________________________________________________________
 
 # Analysis of the 4 sub-segments of EVENFLO
